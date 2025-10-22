@@ -35,7 +35,6 @@ def load_and_clean_data(file_path):
 
     # Drop rows where coordinates are NaN (cannot be plotted)
     df = df.dropna(subset=[COL_LATITUDE, COL_LONGITUDE])
-
     return df
 
 try:
@@ -84,6 +83,7 @@ if not capacity_values.empty:
         value=(float(min_capacity), float(max_capacity)),
         step=0.1
     )
+
 else:
     st.sidebar.warning("No valid capacity data available.")
     capacity_range = (0, 0)
@@ -110,7 +110,6 @@ if df_filtered.empty:
     st.stop()
 
 # Main content
-
 ## KPI Metrics
 st.header("📊 Key Performance Indicators (KPIs)")
 
