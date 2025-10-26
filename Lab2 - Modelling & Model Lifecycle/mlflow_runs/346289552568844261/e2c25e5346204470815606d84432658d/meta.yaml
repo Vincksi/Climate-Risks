@@ -1,0 +1,15 @@
+artifact_uri: file:C:/Users/kerri/mlflow_runs/346289552568844261/e2c25e5346204470815606d84432658d/artifacts
+end_time: 1761514585654
+entry_point_name: ''
+experiment_id: '346289552568844261'
+lifecycle_stage: active
+run_id: e2c25e5346204470815606d84432658d
+run_name: LinearRegression_20251026_223620
+run_uuid: e2c25e5346204470815606d84432658d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761514580921
+status: 3
+tags: []
+user_id: kerri

@@ -1,0 +1,42 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.12
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 2.18.0
+model_size_bytes: 2705617
+model_uuid: 97f5b347aec5425b83e1c1081214199c
+run_id: 38353d129b644ea9b26abea8e6049540
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "prod_2019", "required": true}, {"type": "double",
+    "name": "prod_2020", "required": true}, {"type": "double", "name": "prod_2021",
+    "required": true}, {"type": "double", "name": "prod_2022", "required": true},
+    {"type": "double", "name": "Workforce size", "required": true}, {"type": "double",
+    "name": "Nominal crude steel capacity (ttpa)", "required": true}, {"type": "double",
+    "name": "Capacity per Worker (ttpa per worker)", "required": true}, {"type": "double",
+    "name": "Growth_Volatility", "required": true}, {"type": "double", "name": "Avg_Annual_Growth",
+    "required": true}, {"type": "double", "name": "Plant Age", "required": true},
+    {"type": "double", "name": "Certification score", "required": true}, {"type":
+    "boolean", "name": "Asia Pacific", "required": true}, {"type": "boolean", "name":
+    "Central & South America", "required": true}, {"type": "boolean", "name": "Eurasia",
+    "required": true}, {"type": "boolean", "name": "Europe", "required": true}, {"type":
+    "boolean", "name": "Middle East", "required": true}, {"type": "boolean", "name":
+    "North America", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2025-10-26 21:36:26.785567'

@@ -1,0 +1,15 @@
+artifact_uri: file:C:/Users/kerri/mlflow_runs/346289552568844261/38353d129b644ea9b26abea8e6049540/artifacts
+end_time: 1761514589359
+entry_point_name: ''
+experiment_id: '346289552568844261'
+lifecycle_stage: active
+run_id: 38353d129b644ea9b26abea8e6049540
+run_name: RandomForest_20251026_223625
+run_uuid: 38353d129b644ea9b26abea8e6049540
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761514585657
+status: 3
+tags: []
+user_id: kerri
