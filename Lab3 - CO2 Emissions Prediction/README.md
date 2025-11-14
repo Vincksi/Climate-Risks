@@ -9,7 +9,7 @@ This project focuses on analyzing and predicting CO2 emissions from China's stee
 - [Plant-level-data-Global-Iron-and-Steel-Tracker.xlsx](cci:7://file:///c:/Users/kerri/OneDrive/Documents/Travail/AIDAMS/ESSEC%20Y3/Research%20&%20Emerging%20Topics/Labs/Lab3%20-%20CO2%20Emissions%20Prediction/Plant-level-data-Global-Iron-and-Steel-Tracker.xlsx:0:0-0:0): Primary dataset containing plant-level steel production data
 - [owner_emissions_cleaned.csv](cci:7://file:///c:/Users/kerri/OneDrive/Documents/Travail/AIDAMS/ESSEC%20Y3/Research%20&%20Emerging%20Topics/Labs/Lab3%20-%20CO2%20Emissions%20Prediction/owner_emissions_cleaned.csv:0:0-0:0): Processed dataset with calculated CO2 emissions by company
 - [Country-crude-steel-production.xlsx](cci:7://file:///c:/Users/kerri/OneDrive/Documents/Travail/AIDAMS/ESSEC%20Y3/Research%20&%20Emerging%20Topics/Labs/Lab3%20-%20CO2%20Emissions%20Prediction/Country-crude-steel-production.xlsx:0:0-0:0): Supplementary data on steel production by country
-- [images/](cci:7://file:///c:/Users/kerri/OneDrive/Documents/Travail/AIDAMS/ESSEC%20Y3/Research%20&%20Emerging%20Topics/Labs/Lab3%20-%20CO2%20Emissions%20Prediction/images:0:0-0:0): Directory containing visualizations and plots
+- [images/](cci:7://file:///c:/Users/kerri/OneDrive/Documents/Travail/AIDAMS/ESSEC%20Y3/Research%20&%20Emerging%20Topics/Labs/Lab3%20-%20CO2%20Emissions%20Prediction/images:0:0-0:0)
 
 ## Key Features
 - Data processing and cleaning of steel production data
