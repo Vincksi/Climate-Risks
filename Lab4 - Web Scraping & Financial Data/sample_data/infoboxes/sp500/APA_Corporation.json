@@ -1,0 +1,23 @@
+{
+    "name": "APA Corporation",
+    "logo": "ApacheLogo.svg",
+    "image": "PostOakCentralMarsh.JPG",
+    "image_caption": "The headquarters of the company in [[Post Oak Central]], [[Houston, Texas]].",
+    "type": "[[Public company|Public]]",
+    "traded_as": "{{ubl|NASDAQ|APA|[[S&P 500]] component}} {{NASDAQ|APA}}",
+    "ISIN": "{{ISIN|sl|=|n|pl|=|y|US03743Q1085}}",
+    "founded": "{{Start date and age|1954|12|6}}",
+    "founders": "{{ubl|Truman Anderson|Charles Arnao|[[Raymond Plank]]}}",
+    "hq_location": "[[Post Oak Central]]<br />[[Houston, Texas]], U.S.",
+    "key_people": "John J. Christmann IV ([[Chief executive officer|CEO]])",
+    "industry": "[[Petroleum industry]]",
+    "products": "{{ubl|[[Petroleum]]|[[Natural gas]]}}",
+    "production": "{{convert|454.7|e3BOE|lk|=|in}} per day (2024)",
+    "revenue": "{{increase}} {{US$|9.74&nbsp;billion|link|=|yes}} (2024)",
+    "operating_income": "{{decrease}} US$1.90&nbsp;billion (2024)",
+    "net_income": "{{decrease}} US$804&nbsp;million (2024)",
+    "assets": "{{increase}} US$19.4&nbsp;billion (2024)",
+    "equity": "{{increase}} US$5.28&nbsp;billion (2024)",
+    "num_employees": "2,305 (2024)",
+    "website": "{{URL|https://apacorp.com}}"
+}

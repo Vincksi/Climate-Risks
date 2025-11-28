@@ -1,0 +1,19 @@
+{
+    "name": "Bouygues S.A.",
+    "logo": "Bouygues.svg",
+    "logo_size": "200px",
+    "type": "[[Public company|Public]]",
+    "traded_as": "{{EuronextParis|EN|FR0000120503|XPAR}} <br />[[CAC 40]] component",
+    "founder": "[[Francis Bouygues]]",
+    "key_people": "{{ubl|[[Martin Bouygues]] ([[chairman]])}} {{ubl|Olivier Roussat ([[CEO]])}}",
+    "industry": "[[conglomerate (company)|Conglomerate]]",
+    "revenue": "{{increase}} {{€|37.59 billion|link|=|yes}} (2021)",
+    "operating_income": "{{increase}} €1.69 billion (2021)",
+    "net_income": "{{increase}} €1.125 billion (2021)",
+    "num_employees": "124,600 (Dec 2021)",
+    "subsid": "{{ubl\n   | Bouygues Construction\n   | Bouygues Immobilier\n   | [[Bouygues Télécom (company)|Bouygues Télécom]]\n   | Equans\n   | [[Colas Group]]\n   | [[TF1 Group]] (43.7%)}}",
+    "location_city": "[[8th arrondissement of Paris|8th arrondissement]], [[Paris]]",
+    "location_country": "France",
+    "homepage": "[https://www.bouygues.com/en/ bouygues.com]",
+    "foundation": "{{start date and age|1952}}"
+}

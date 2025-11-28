@@ -1,0 +1,18 @@
+{
+    "name": "Banco de Chile",
+    "logo": "Banco de Chile logo.svg",
+    "image": "Banco de Chile.jpg",
+    "type": "[[S.A. (corporation)|Sociedad Anónima]]",
+    "traded_as": "{{BCS|CHILE}} <br/> {{NYSE|BCH}} <br/> {{BMAD|isin|=|CLP0939W1081|XBCH}}",
+    "foundation": "October 1893",
+    "location": "[[Santiago, Chile]]",
+    "key_people": "{{unbulleted list|[[Pablo Granifo Lavín]] <small>(Chairman)</small> |[[Arturo Tagle Quiroz]] |small|(CEO)|[[Andrónico Luksic Craig]] <small>(Vice President)</small>\n|Francisco Aristeguieta Silva <small>(Vice President)</small>}} {{small|(CEO)}}",
+    "industry": "[[Banking]]",
+    "revenue": "{{increase}} [[United States dollar|US$]] 3.8 billion <small>(2017)</small>",
+    "net_income": "{{increase}} [[United States dollar|US$]] 888.4 million <small>(2017)\n</small>",
+    "assets": "{{increase}} [[United States dollar|US$]] 55.0 billion <small>(2018)</small>",
+    "owner": "[[Quiñenco]] (29%)<br /> [[Citigroup]] (29%)",
+    "num_employees": "14,581",
+    "subsid": "[[SM-Chile]]",
+    "homepage": "{{url|bancochile.cl}}"
+}

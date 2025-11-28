@@ -1,0 +1,20 @@
+{
+    "name": "Sociedad Química y Minera de Chile S.A",
+    "logo": "Sociedad Química y Minera logo.svg",
+    "logo_size": "150px",
+    "type": "[[S.A. (corporation)|Sociedad Anónima]]",
+    "traded_as": "{{ubl|BCS|SQM-A|BCS|SQM-B|NYSE|SQM}} {{BCS|SQM-A}} {{BCS|SQM-B}} {{NYSE|SQM}}",
+    "foundation": "{{Start date and age|1968|6|11}}",
+    "location": "[[Santiago, Chile]]",
+    "key_people": "Ricardo Ramos (CEO) <br>[[Julio Ponce Lerou]]",
+    "industry": "Chemicals and mining",
+    "products": "{{ubl|[[Industrial chemical]] | [[Iodine]] | [[Lithium]] | [[Potassium]] | Specialty plant nutrition}}",
+    "ISIN": "{{ISIN|sl|=|n|pl|=|y|US8336351056}} (ADR)",
+    "revenue": "{{nowrap|profit| |US$|2.86&nbsp;billion|link|=|yes| (2021)|ref| name=\"ar2021\"}} {{profit}} {{US$|2.86&nbsp;billion|link|=|yes}} (2021)",
+    "operating_income": "{{nowrap|profit| |US$|927 million| (2021)|ref| name=\"ar2021\"}} {{profit}} {{US$|927 million}} (2021)",
+    "net_income": "{{nowrap|profit| |US$|592 million| (2021)|ref| name=\"ar2021\"}} {{profit}} {{US$|592 million}} (2021)",
+    "assets": "{{nowrap|profit| |US$|7.04 billion| (2021)|ref| name=\"ar2021\"}} {{profit}} {{US$|7.04 billion}} (2021)",
+    "equity": "{{nowrap|profit| |US$|3.22 billion| (2021)|ref| name=\"ar2021\"}} {{profit}} {{US$|3.22 billion}} (2021)",
+    "num_employees": "8,344",
+    "homepage": "{{URL|www.sqm.com}}"
+}

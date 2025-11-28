@@ -1,0 +1,21 @@
+{
+    "name": "RWE AG",
+    "type": "[[Aktiengesellschaft]]",
+    "traded_as": "{{FWB|RWE}} <br /> {{FWB|RWEA}} ([[American depositary receipt|ADR]])<br />[[DAX]] component (RWE)",
+    "ISIN": "{{ISIN|sl|=|n|pl|=|y|DE0007037129}}",
+    "logo": "RWE Logo 2020.svg",
+    "logo_size": "125px",
+    "location": "[[Essen]], Germany",
+    "area_served": "Asia-Pacific\nEurope\nUnited States",
+    "key_people": "[[Markus Krebber]] <small>(President and [[chief executive officer|CEO]])</small>, Dr. Frank Appel <small>([[Chairman]] of the [[supervisory board]])</small>",
+    "revenue": "€29.8 billion (2024)",
+    "operating_income": "€1.267 billion (2019)",
+    "net_income": "€5.14 billion (2024)",
+    "assets": "€39.846 billion (2019)",
+    "equity": "€5.738 billion (2019)",
+    "num_employees": "19,792 (2019)",
+    "industry": "[[Electricity generation]]",
+    "owner": "[[Qatar Investment Authority]] (9.09%)",
+    "products": "[[Electricity]]",
+    "homepage": "{{URL|https://www.group.rwe/en}}"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Nordea Bank Abp",
+    "native_name": "Nordea Bank Abp",
+    "native_name_lang": "sv",
+    "image": "0661 Nordea Helsinki.JPG",
+    "image_size": "250px",
+    "image_caption": "The global headquarters of Nordea is located in [[Vallila]], [[Helsinki]]",
+    "former_name": "Merita Bank, Unibank, Nordbanken, Kreditkassen",
+    "type": "[[Osakeyhtiö#Julkinen osakeyhtiö|Public limited company (Publikt Aktiebolag)]]",
+    "traded_as": "{{ubl|OMX|HEX150235|NDA FI|OMX|SSE160271|NDA SE|OMX|CSE160272|NDA DK}} {{OMX|HEX150235|NDA FI}} {{OMX|SSE160271|NDA SE}} {{OMX|CSE160272|NDA DK}}",
+    "foundation": "1820 as [[Sparekassen for Kjøbenhavn og Omegn]]",
+    "founder": "[[Hans Dalborg]]",
+    "location": "[[Helsinki, Finland]]",
+    "key_people": "{{ubl|ILL|Stephen Hester|sv| ([[chair (official)|Chairman]])|ref|{{cite web |title=Nordea Corporate Governance |url=https://www.nordea.com/en/about-us/corporate-governance/board-of-directors/sir-stephen-hester |website=www.nordea.com |publisher=Nordea |access-date=13 August 2024}}|</ref>| | |ILL|Frank Vang-Jensen|sv| (President and [[chief executive officer|CEO]])|ref|[https://www.nordea.com/sv/om-nordea/bolagsstyrning/styrelse/styrelsens-ledamoter/ Styrelsens ledamöter] Nordea.com. Retrieved 2020-10-22|</ref>}} {{ILL|Stephen Hester|sv}} ([[chair (official)|Chairman]]) {{ILL|Frank Vang-Jensen|sv}} (President and [[chief executive officer|CEO]])",
+    "products": "Corporate and [[retail bank]]ing, [[investment management|asset management]]",
+    "equity": "{{#invoke:WikidataIB |getValue |rank|=|best |P2137 |name|=|assets |qual|=|P585 |fetchwikidata|=|fetchwikidata|ALL| |onlysourced|=|yes |noicon|=|noicon|no| |maxvals|=|1 |equity| |#if:|equity_year| | (|equity_year|)|}} {{#if:|equity_year| | (|equity_year|)}} )",
+    "aum": "{{#invoke:WikidataIB |getValue |rank|=|best |P4103 |name|=|aum |qual|=|P585 |fetchwikidata|=|fetchwikidata|ALL| |onlysourced|=|yes |noicon|=|noicon|no| |maxvals|=|1 |aum| |#if:|aum_year| | (|aum_year|)|}} {{#if:|aum_year| | (|aum_year|)}} )",
+    "ratio": "17.0%",
+    "rating": "AA ([[Fitch Ratings]])",
+    "homepage": "{{URL|http://www.nordea.com/}}"
+}

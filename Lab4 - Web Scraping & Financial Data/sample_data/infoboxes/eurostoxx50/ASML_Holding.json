@@ -1,0 +1,21 @@
+{
+    "name": "ASML Holding N.V.",
+    "logo": "[[File:ASML Holding N.V. logo.svg|frameless|upright=1.05|class=skin-invert]]",
+    "image": "ASML headquarters Veldhoven.jpg",
+    "image_upright": "1.1",
+    "image_caption": "Corporate headquarters in [[Veldhoven]]",
+    "type": "[[Public company|Public]]",
+    "traded_as": "{{Unbulleted list|EuronextAmsterdam|ASML|NL0010273215|XAMS|[[AEX index|AEX]] component|NASDAQ|ASML|[[Nasdaq-100]] component|OTC Pink|ASMLF}} {{EuronextAmsterdam|ASML|NL0010273215|XAMS}} {{NASDAQ|ASML}} {{OTC Pink|ASMLF}}",
+    "key_people": "{{ubl|Christophe Fouquet ([[Chief executive officer|CEO]])|Nils Andersen ([[chairman]] of the [[supervisory board]])}}",
+    "industry": "[[Semiconductor industry]]",
+    "products": "[[Photolithography]] systems for the [[semiconductor]] industry",
+    "revenue": "{{increase}} {{€|28.26&nbsp;billion|link|=|yes}} (2024)",
+    "operating_income": "{{decrease}} {{€|9.023&nbsp;billion}} (2024)",
+    "net_income": "{{decrease}} {{€|7.572&nbsp;billion}} (2024)",
+    "assets": "{{increase}} {{€|48.59&nbsp;billion}} (2024)",
+    "equity": "{{increase}} {{€|18.48&nbsp;billion}} (2024)",
+    "num_employees": "43,395 (2024)",
+    "founded": "{{Unbulleted list | |Start date and age|1984| (joint venture) | |Start date and age|1988| (independent company)}} {{Start date and age|1984}} (joint venture) {{Start date and age|1988}} (independent company)",
+    "hq_location": "[[Veldhoven]], Netherlands",
+    "website": "{{URL|https://www.asml.com/|asml.com}}"
+}

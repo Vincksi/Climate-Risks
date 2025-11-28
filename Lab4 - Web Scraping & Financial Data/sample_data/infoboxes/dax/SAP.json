@@ -1,0 +1,23 @@
+{
+    "name": "SAP SE",
+    "logo": "SAP 2011 logo.svg",
+    "type": "[[Public company|Public]]",
+    "traded_as": "{{Unbulleted list|FWB|SAP|FWB|SAPA| ([[American Depositary Receipt|ADR]])|NYSE|SAP| ([[American Depositary Receipt|ADR]])|[[DAX]] component}} {{FWB|SAP}} {{FWB|SAPA}} ([[American Depositary Receipt|ADR]]) {{NYSE|SAP}} ([[American Depositary Receipt|ADR]])",
+    "ISIN": "{{Unbulleted list|ISIN|sl|=|n|pl|=|y|DE0007164600|ISIN|sl|=|n|pl|=|y|US8030542042}} {{ISIN|sl|=|n|pl|=|y|DE0007164600}} {{ISIN|sl|=|n|pl|=|y|US8030542042}}",
+    "foundation": "{{start date and age|1972}} in [[Weinheim]], [[West Germany]]",
+    "founders": "{{Unbulleted list|[[Dietmar Hopp]]|Hans-Werner Hector|[[Hasso Plattner]]|[[Klaus Tschira]]|[[Claus Wellenreuther]]}}",
+    "location_city": "[[Walldorf]], [[Baden-Württemberg]]",
+    "location_country": "Germany",
+    "area_served": "Worldwide",
+    "key_people": "{{Unbulleted list|[[Pekka Ala-Pietilä]] ([[chairman]]|ref| name=\"supervisory_board\"|{{cite web|url=https://www.sap.com/investors/en/governance/supervisory-board.html|title=Supervisory Board SAP SE |publisher=SAP SE |access-date=19 May 2024}}|</ref>|)|[[Christian Klein]] ([[Chief executive officer|CEO]])}} )",
+    "industry": "{{Unbulleted list|[[Enterprise software]]|[[Business software]]|[[Cloud computing]]|[[Consulting]]}}",
+    "products": "{{hlist|SAP AppGyver|[[SAP S/4HANA]] |[[SAP HANA]] |[[SAP ERP]] |[[SAP CRM]] |[[SAP PLM]] |[[SAP SCM]] |[[SAP SRM]] |[[SAP SuccessFactors]] |[[SAP NetWeaver]] |[[SAP Business ByDesign]] |[[SAP Business One]] |[[BusinessObjects]] | [[SAP IQ]] |[[SAP Ariba]] |[[ABAP]] |[[SAP Cloud Platform]] |[[SAP Converged Cloud]] |('''[[List of SAP products|Full list]]''')}}",
+    "services": "{{hlist|[[Application software|Applications]]|[[Cloud computing|Cloud]]}}",
+    "revenue": "{{Increase}} [[Euro|€]]34.18&nbsp;billion (2024)",
+    "operating_income": "{{Decrease}} €4.665&nbsp;billion (2024)",
+    "net_income": "{{Decrease}} €3.150&nbsp;billion (2024)",
+    "assets": "{{Increase}} €74.12&nbsp;billion (2024)",
+    "equity": "{{Increase}} €45.81&nbsp;billion (2024)",
+    "num_employees": "109,973 (2024)",
+    "homepage": "{{URL|https://www.sap.com/|sap.com}}"
+}

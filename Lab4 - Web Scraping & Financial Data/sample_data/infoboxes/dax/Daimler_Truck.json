@@ -1,0 +1,23 @@
+{
+    "name": "Daimler Truck Holding AG",
+    "logo": "Daimler_Truck_Logo.svg",
+    "logo_size": "250px",
+    "image": "Stuttgart_Daimler_Untertuerkeim.jpg",
+    "image_size": "250px",
+    "image_caption": "Daimler Truck AG facilities",
+    "type": "[[public company|Public]]",
+    "traded_as": "{{fwb|DTG|isin|=|DE000DTR0CK8}} <br>[[DAX]] component",
+    "ISIN": "{{ISIN|sl|=|n|pl|=|y|DE000DTR0CK8}}",
+    "predecessor": "[[Mercedes-Benz Group|Daimler AG]]'s heavy commercial vehicle operations",
+    "foundation": "{{Start date and age|df|=|yes|2019|11|01}} <br />[[Stuttgart]], Germany",
+    "location": "[[Leinfelden-Echterdingen]], Germany",
+    "area_served": "Worldwide",
+    "key_people": "Martin Daum (Chairman)",
+    "industry": "[[Automotive]]",
+    "products": "{{flatlist|\n* [[Truck]]s\n* [[Bus]]es}}",
+    "services": "[[financial services|Financial]]",
+    "brands": "[[Mercedes-Benz]]",
+    "owners": "{{plainlist|\n* [[Mercedes-Benz Group]] (30.01%)|ref| name=spun|[https://www.daimlertruck.com/investors/services/fragen-und-antworten-spin-off/ Why did Daimler spin off the Daimler Truck business? What does spin-off mean?] on DaimlerTruck|</ref>|\n* [[BAIC]] (6.49%)\n* [[Kuwait Investment Authority]] (5.01%)\n* Mercedes-Benz Pension Trust (4.99%)}} * [[BAIC]] (6.49%)\n* [[Kuwait Investment Authority]] (5.01%)\n* Mercedes-Benz Pension Trust (4.99%)",
+    "subsid": "{{plainlist|\n* [[Daimler Truck North America]] \n* [[Daimler India Commercial Vehicles|Daimler India]]}}",
+    "homepage": "{{URL|https://www.daimlertruck.com/en|daimlertruck.com}}"
+}

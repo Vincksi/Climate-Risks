@@ -1,0 +1,20 @@
+{
+    "name": "Hannover Rück SE",
+    "logo": "Hannover RE Logo 2024.svg",
+    "logo_size": "230px",
+    "image": "HannRueck 0098 m.jpg",
+    "image_alt": "Company headquarters in Hannover",
+    "image_caption": "Company headquarters in Hannover",
+    "type": "[[Public company|Public]] (''[[Societas Europaea]]'')",
+    "traded_as": "{{FWB|HNR1}} <br/> {{FWB|HNRB}} ([[American Depositary Receipt|ADR]])<br/> {{OTC Pink|type|=|current|HVRRF}} <br/> {{OTC Pink|type|=|current|HVRRY}} ([[American Depositary Receipt|ADR]])<br/>[[DAX]] component (HNR1)",
+    "ISIN": "{{ISIN|sl|=|n|pl|=|y|DE0008402215}} <br/> {{ISIN|sl|=|n|pl|=|y|US4106931052}}",
+    "foundation": "{{start date and age|1966}}",
+    "location": "[[Hanover|Hannover]], [[Germany]]",
+    "key_people": "*Clemens Jungsthöfel ([[chief executive officer|CEO]])\n* Sven Althoff\n* Claude Chèvre\n* Christian Hermelingmeier\n* Brona Magee * Sharon Ooi\n* Silke Sehm\n* Thorsten Steinmann * Torsten Leue ([[Chairman]] of the [[supervisory board]])",
+    "industry": "Insurance services",
+    "products": "[[Reinsurance]]",
+    "owner": "[[Talanx]] (50.2 %)",
+    "revenue": "[[Euro|€]] 24.5 billion <small>(Reinsurance revenue, 2023)</small>",
+    "num_employees": "3,756",
+    "homepage": "[https://www.hannover-re.com www.hannover-re.com]"
+}

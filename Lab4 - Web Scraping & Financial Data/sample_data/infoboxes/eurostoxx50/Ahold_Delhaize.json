@@ -1,0 +1,20 @@
+{
+    "name": "Koninklijke Ahold Delhaize N.V.",
+    "logo": "{{#statements:P154}}",
+    "image": "{{#statements:P18}}",
+    "image_caption": "Ahold Delhaize headquarters in Zaandam, Netherlands",
+    "type": "[[Public company|Public]] ([[Naamloze vennootschap|N.V.]])",
+    "traded_as": "{{EuronextAmsterdam|AD|NL0011794037|XAMS}} <br>[[AEX index|AEX]] component",
+    "ISIN": "NL0011794037",
+    "foundation": "{{#statements:P571}}",
+    "predecessors": "{{ubl|[[Ahold]]|[[Delhaize Group]]}}",
+    "hq_location": "{{#statements:P159}}",
+    "hq_location_country": "{{#statements:P17}}",
+    "num_locations": "7,910 (2024)",
+    "key_people": "{{plainlist|\n* [[Frans Muller]] (President and CEO)\n* Jerry W Fleeman (CEO Ahold Delhaize USA)\n* Wouter Kolk (CEO Ahold Delhaize Europe and Indonesia)\n* Jolanda Poots-Bijl (CFO)|ref|[https://www.aholddelhaize.com/en/news/jolanda-poots-bijl-appointed-to-the-management-board-of-ahold-delhaize-as-cfo Jolanda Poots-Bijl appointed to the Management Board of Ahold Delhaize as CFO ]/|</ref>|}}",
+    "industry": "{{#statements:P452}} {{ubl|[[Wholesaling]]|[[Technology]]}}",
+    "net_income": "{{Increase}} [[Euro|€]]1.8 billion (2024)",
+    "revenue": "{{Increase}} [[Euro|€]]89.4 billion (2024)",
+    "num_employees": "414,000",
+    "website": "{{Official website}}"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Post & Parcel Germany division",
+    "brands": "{{lang|de|italic|=|no|Deutsche Post}} , [[DHL]]",
+    "logo": "Logo Deutsche Post 2019.svg",
+    "logo_size": "220px",
+    "logo_caption": "Logo used since 2019. Before 2019, the {{lang|de|italic|=|no|\"Deutsche Post\"}} wordmark used the [[Frutiger (typeface)|Frutiger typeface]].",
+    "predecessor": "{{lang|de|italic|=|no|[[Deutsche Bundespost]]}}",
+    "type": "[[Division (business)|Division]]",
+    "num_employees": "{{Circa}} 187,000 (2024)",
+    "parent": "[[DHL Group]]",
+    "foundation": "{{start date and age|1995}}",
+    "location": "[[Bonn]], Germany",
+    "num_locations": "13,000 [[post office]]s (2024)",
+    "services": "domestic [[mail]], [[post office]]s",
+    "homepage": "{{URL|https://www.deutschepost.de/en/home.html|deutschepost.de}}"
+}

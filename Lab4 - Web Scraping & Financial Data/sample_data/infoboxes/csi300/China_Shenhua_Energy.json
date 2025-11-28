@@ -1,0 +1,19 @@
+{
+    "name": "China Shenhua Energy",
+    "native_name": "中国神华能源股份有限公司",
+    "native_name_lang": "zh",
+    "romanized_name": "Zhōngguó shénhuá néngyuán gǔfèn yǒuxiàn gōngsī",
+    "logo": "File:China Shenhua Energy Logo.png",
+    "type": "Public",
+    "traded_as": "{{ubl|SSE|601088|sehk|1088|CSI A50}} {{SSE|601088}} {{sehk|1088}}",
+    "foundation": "1995",
+    "location_city": "[[Beijing]]",
+    "location_country": "China",
+    "key_people": "Zhang Yuzuo (chairman)",
+    "area_served": "China",
+    "industry": "[[Electricity]]<br/>[[Mining]]",
+    "products": "[[Coal]]<br/>[[Electric power]]",
+    "num_employees": "74,949 (2011)",
+    "parent": "[[Shenhua Group]] (73.06%)",
+    "homepage": "{{url|www.csec.com}}"
+}

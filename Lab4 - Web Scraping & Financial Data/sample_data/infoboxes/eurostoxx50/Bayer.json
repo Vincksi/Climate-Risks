@@ -1,0 +1,23 @@
+{
+    "name": "Bayer AG",
+    "logo": "Logo Bayer.svg",
+    "logo_size": "160px",
+    "image": "Leverkusen Kaiser-Wilhelm-Allee 0004.jpg",
+    "image_caption": "Headquarters in Leverkusen",
+    "type": "[[Public company|Public]]",
+    "traded_as": "{{ubl|class|=|nowrap|FWB|BAYN|[[DAX]] component|[[Euro Stoxx 50]] component}} {{FWB|BAYN}}",
+    "founder": "[[Friedrich Bayer]]",
+    "foundation": "{{start date and age|1863|08|01|df|=|y|br|=|y}}",
+    "location": "[[Leverkusen]], [[North Rhine-Westphalia]], Germany",
+    "area_served": "Worldwide",
+    "key_people": "{{Plainlist|\n* [[Bill Anderson (businessman)|Bill Anderson]] (CEO)\n* Norbert Winkeljohann (chairman of the [[supervisory board]])}}",
+    "revenue": "{{decrease}} {{€|46.6&nbsp;billion|link|=|yes}} (2024)",
+    "operating_income": "{{decrease}} €&minus;71&nbsp;million (2024)",
+    "net_income": "{{increasenegative}} €&minus;2.6&nbsp;billion (2024)",
+    "assets": "{{increase}} €102&nbsp;billion (2024)",
+    "equity": "{{increase}} €43.3&nbsp;billion (2024)",
+    "num_employees": "92,815 (2024)",
+    "industry": "{{plainlist|\n* [[Pharmaceutical industry|Pharmaceuticals]]\n* [[Chemical industry|Chemicals]]\n* [[Biotechnology]]\n* [[Healthcare industry|Healthcare]]}}",
+    "products": "{{hlist|Prescription pharmaceuticals|[[Medical imaging|diagnostic imaging]]|therapeutics|[[over-the-counter drug]]s|[[pesticides]]|[[seeds]]|[[Plant breeding|plant biotechnology]]}}",
+    "homepage": "{{url|https://www.bayer.com/|bayer.com}}"
+}

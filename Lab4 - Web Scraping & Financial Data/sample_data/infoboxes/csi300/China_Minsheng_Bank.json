@@ -1,0 +1,20 @@
+{
+    "name": "China Minsheng Banking Corporation Limited <br /> 中国民生银行股份有限公司",
+    "logo": "Minshengbank.svg",
+    "logo_size": "250px",
+    "image": "File:MinshengBankBeijing.jpg",
+    "image_size": "250px",
+    "image_caption": "Head office of China Minsheng Bank on [[Fuxingmen Inner Street]] in Beijing",
+    "type": "[[Publicly traded company]]",
+    "traded_as": "{{SSE|600016}} <br> {{hkex|1988}} <br>[[SSE 50 Index|SSE 50 Component]]",
+    "foundation": "{{start date and age|1996|1|12|df|=|y}}",
+    "location_city": "[[Beijing]]",
+    "location": "No. 2 Fuxingmennei Avenue, Xicheng District",
+    "area_served": "Mainland [[China]]<br>[[Hong Kong]]",
+    "industry": "[[Bank]]",
+    "operating_income": "CNY¥ {{FXConvert|CHN|137.4|b}} {{small|(2023)}}",
+    "assets": "CNY¥ {{FXConvert|CHN|7.64|t}} {{small|(2023)}}",
+    "divisions": "[[Minsheng Private Banking Service]]",
+    "owner": "Mainly [[private sector]] corporations in China",
+    "homepage": "{{URL|http://www.cmbc.com.cn/}}"
+}

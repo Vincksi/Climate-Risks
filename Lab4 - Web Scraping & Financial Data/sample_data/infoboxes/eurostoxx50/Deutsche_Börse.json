@@ -1,0 +1,23 @@
+{
+    "name": "Deutsche Börse AG",
+    "logo": "Deutsche Börse.svg",
+    "logo_size": "200px",
+    "image": "Deutsche-boerse-parkett-ffm001.jpg",
+    "image_size": "260px",
+    "image_caption": "{{Lang|de|Deutsche Börse|italic|=|no}} trading floor in [[Frankfurt]]",
+    "type": "[[Public company|Public]] ( {{Lang|de|[[Aktiengesellschaft]]}} )",
+    "traded_as": "{{ubl|FWB|DB1|[[DAX]] component}} {{FWB|DB1}}",
+    "key_people": "{{ubl|[[Stephan Leithner]] ([[chief executive officer|CEO]])|[[Joachim Faber]] ([[chairman]] of the [[supervisory board]])}}",
+    "industry": "[[Finance]]",
+    "services": "[[Equity trading]] platforms, [[Derivative (finance)|derivatives]] [[Financial market|markets]], [[Clearing (finance)|clearing]], [[market data]]",
+    "revenue": "{{increase}} {{€|5.829 billion|link|=|yes}} (2024)",
+    "operating_income": "{{increase}} €2.9 billion (2024)",
+    "net_income": "{{increase}} €1.949 billion (2024)",
+    "assets": "{{decrease}} €222.112 billion (2024)",
+    "equity": "{{increase}} €11.259 billion (2024)",
+    "num_employees": "15,835 ([[full-time equivalent|FTE]], mid 2025)",
+    "subsid": "[[360T]], [[Frankfurt Stock Exchange]], [[Clearstream]], [[Xetra (trading system)|Xetra]], [[Eurex]], [[STOXX]], [[Qontigo]]",
+    "website": "{{URL|https://deutsche-boerse.com/dbg-en/|deutsche-boerse.com}}",
+    "foundation": "{{Start date and age|1992}}",
+    "location": "[[Frankfurt am Main]], [[Germany]]"
+}

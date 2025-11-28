@@ -1,0 +1,22 @@
+{
+    "name": "BASF SE",
+    "logo": "BASF-Logo bw.svg",
+    "logo_size": "205px",
+    "type": "[[Public company|Public]]",
+    "traded_as": "{{ubl|FWB|BAS|isin|=|DE000BASF111|[[DAX]] component}} {{FWB|BAS|isin|=|DE000BASF111}}",
+    "ISIN": "{{ISIN|sl|=|n|pl|=|y|DE000BASF111}}",
+    "industry": "[[Chemical industry|Chemicals]]",
+    "founder": "[[Friedrich Engelhorn]]",
+    "key_people": "{{ubl|Jürgen Hambrecht <small>(chairman of the [[supervisory board]])</small>| Markus Kamieth (CEO)}}",
+    "products": "Chemicals, plastics, performance chemicals, [[catalyst]]s, [[coating]]s, [[Agricultural science|crop technology]], [[crude oil]] and natural gas [[Hydrocarbon exploration|exploration]] and production",
+    "revenue": "{{decrease}} {{€|68.9&nbsp;billion|link|=|yes}} (2023)",
+    "operating_income": "{{decrease}} €2.24&nbsp;billion (2023)",
+    "net_income": "{{increase}} €225&nbsp;million (2023)",
+    "assets": "{{decrease}} €77.4&nbsp;billion (2023)",
+    "equity": "{{decrease}} €36.6&nbsp;billion (2023)",
+    "num_employees": "{{increase}} 111,991 (end 2023)",
+    "subsid": "[[Wintershall]], Nunhems, TrinamiX, [[Cognis]], BTC Europe, Chemster, Siegfried PharmaChemikalien Minden, [[Verenium Corporation]], Isobionics, Succinity, Pinturas Thermicas del Norte",
+    "foundation": "{{start date and age|1865|04|6|df|=|yes}} (as Badische Anilin- und Sodafabrik); [[Mannheim]], [[Grand Duchy of Baden|Baden]], Germany",
+    "location": "[[Ludwigshafen]], Germany",
+    "homepage": "{{URL|basf.com}}"
+}

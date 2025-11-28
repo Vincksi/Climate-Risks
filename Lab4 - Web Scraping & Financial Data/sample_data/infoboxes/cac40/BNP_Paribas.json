@@ -1,0 +1,23 @@
+{
+    "logo": "BNP Paribas.svg",
+    "logo_size": "50px",
+    "image": "Italiens12.jpg",
+    "image_caption": "The [[headquarters]] of BNP Paribas in [[Paris]]",
+    "type": "[[Public company|Public]]",
+    "traded_as": "{{Ubl|EuronextParis|BNP|FR0000131104|XPAR|LSE|0HB5|[[CAC 40]] component (BNP)}} {{EuronextParis|BNP|FR0000131104|XPAR}} {{LSE|0HB5}}",
+    "area_served": "Worldwide",
+    "key_people": "{{Ubl|[[Jean Lemierre]] ([[Chairperson|Chairman]])|[[Jean-Laurent Bonnafé]] ([[CEO]])}}",
+    "industry": "[[Financial services]]",
+    "products": "{{Ubl\n| [[Asset management]]\n| [[Banking]]\n| [[Commodities]]\n| [[Credit card]]s\n| [[Equities trading]]\n| [[Insurance]]\n| [[Investment banking]]\n| [[Investment management]]\n| [[Mortgage loan]]s\n| [[Mutual funds]]\n| [[Private equity]]\n| [[Security (finance)|Securities services]]\n| [[Risk management]]\n| [[Wealth management]]}}",
+    "divisions": "{{Collapsible list|title|=|List|[[BNP Paribas Asset Management]]<br>[[Cardif|BNP Paribas Cardif]]<br>BNP Paribas Factor<br>[[BNP Paribas Fortis]]<br>BNP Paribas Real Estate}}",
+    "subsid": "{{Collapsible list|title|=|List|Arval<br>[[Banca Nazionale del Lavoro]]<br>[[Cetelem]]<br>[[Hello bank!]]<br>[[BMCI]]}}",
+    "revenue": "{{increase}} [[Euro|€]]48.83&nbsp;billion (2024)",
+    "operating_income": "{{increase}} €15.43&nbsp;billion (2024)",
+    "net_income": "€3.044 billion (Q3 2025)",
+    "assets": "{{increase}} €2.824&nbsp;trillion (Q3 2025)",
+    "equity": "{{increase}} €134.14&nbsp;billion (2024)",
+    "num_employees": "178,000 (2024)",
+    "foundation": "* {{start date and age|df|=|yes|1822|12|13}} Creation of [[Société Générale de Belgique]], predecessor of [[Fortis Bank]]\n* {{start date and age|df|=|yes|1848|03|10}} creation of [[Comptoir national d'escompte de Paris]], predecessor of BNP\n* {{start date and age|df|=|yes|1872|01|27}} creation of [[Paribas|Banque de Paris et des Pays-Bas]], later called Paribas\n* {{start date and age|df|=|yes|2000|05|23}} merging as BNP Paribas",
+    "location": "[[Boulevard des Italiens|20 Boulevard des Italiens]]<br />[[Paris]], France",
+    "homepage": "{{URL|group.bnpparibas/en/}}"
+}

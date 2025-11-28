@@ -1,0 +1,19 @@
+{
+    "name": "AbbVie Inc.",
+    "logo": "[[File:AbbVie logo.svg|frameless|upright=0.9|class=skin-invert]]",
+    "type": "[[Public company|Public]]",
+    "traded_as": "{{ubl|NYSE|ABBV|[[S&P 100]] component|[[S&P 500]] component}} {{NYSE|ABBV}}",
+    "industry": "[[Biopharmaceutical]]",
+    "founded": "{{Start date and age|2012|04|10}}",
+    "location": "1 North Waukegan Road, [[North Chicago, Illinois]], United States",
+    "area_served": "170+ countries worldwide",
+    "key_people": "{{ubl|Richard A. Gonzalez ([[chairman]])|Robert Michael ([[Chief executive officer|CEO]])}}",
+    "products": "{{flatlist|\n* [[Adalimumab|Humira]]\n* [[Ibrutinib|Imbruvica]]\n* [[Lopinavir|Kaletra]]\n* [[Glecaprevir/pibrentasvir|Mavyret/Maviret]]\n* [[Ritonavir|Norvir]]\n* [[Risankizumab|Skyrizi]]\n* [[venetoclax|Venclexta]]\n* [[Daclizumab|Zinbryta]]}}",
+    "revenue": "{{increase}} {{US$|56.33 billion|link|=|yes}} (2024)",
+    "operating_income": "{{decrease}} {{US$|9.137 billion}} (2024)",
+    "net_income": "{{decrease}} {{US$|4.278 billion}} (2024)",
+    "assets": "{{increase}} {{US$|135.2 billion}} (2024)",
+    "equity": "{{decrease}} {{US$|3.325 billion}} (2024)",
+    "num_employees": "55,000 (2024)",
+    "website": "{{URL|abbvie.com}}"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Akamai Technologies, Inc.",
+    "logo": "Akamai logo.svg",
+    "logo_size": "200px",
+    "image": "Akamai's headquarters in Cambridge, Massachusetts.jpg",
+    "image_size": "250px",
+    "image_caption": "Headquarters in Cambridge, Massachusetts",
+    "type": "[[Public company|Public]]",
+    "traded_as": "{{ubl|NASDAQ|AKAM|[[S&P 500]] component}} {{NASDAQ|AKAM}}",
+    "founded": "{{Start date and age|1998}}",
+    "hq_location": "{{nowrap|[[Cambridge, Massachusetts]], U.S.}}",
+    "founders": "{{ubl |[[Daniel Lewin]] |[[F. Thomson Leighton]] |[[Randall Kaplan]] |[[Preetish Nijhawan]] |Jonathan Seelig}}",
+    "key_people": "{{ubl|[[F. Thomson Leighton]] ([[Chief financial officer|CEO]]) |[[Daniel Hesse]] ([[chairman]])|ref| name=\"Board of Director\"|{{Cite web |title=Akamai Announces Board Of Directors Changes |url=https://www.akamai.com/newsroom/press-release/akamai-announces-board-of-directors-changes1| publisher  = Akamai Technologies, Inc. |date=March 18, 2021}}|</ref>}}",
+    "industry": "{{ubl|[[Internet]]|[[Cloud computing]]}}",
+    "revenue": "{{increase}} {{US$|3.99&nbsp;billion|link|=|yes}} (2024)",
+    "operating_income": "{{decrease}} US$533&nbsp;million (2024)",
+    "net_income": "{{decrease}} US$505&nbsp;million (2024)",
+    "assets": "{{increase}} US$10.4&nbsp;billion (2024)",
+    "equity": "{{increase}} US$4.88&nbsp;billion (2024)",
+    "num_employees": "10,748 (2024)",
+    "website": "{{URL|akamai.com}}",
+    "module": "{{infobox network service provider|child|=|yes|asn|=|20940}}"
+}
